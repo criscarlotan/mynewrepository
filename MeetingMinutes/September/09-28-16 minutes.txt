@@ -1,0 +1,24 @@
+September 28, 2016 (Wednesday)
+
+Time Frame: 6:00 pm - 7:00 pm
+
+Venue: Facebook Group
+
+Aballe    1 hrs
+
+Alesna    1 hrs
+
+Delantar  1 hrs
+
+Tan       1 hrs
+
+
+total minutes: 4 hrs
+
+Issues:
+1. Passing of sequence diagrams for all use cases this Saturday (October 1,2016)
+Resolution
+1. Make the sequence diagram and pass to leader before or on Saturday (October 1,2016)
+
+Action items:
+1. Sequence diagrams will be made my their respective module-in-charge. 

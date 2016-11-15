@@ -1,0 +1,16 @@
+
+Function Point Analysis
+
+E = AFP^3*J/ 27 man-months
+
+AFP = UFP * CF
+
+CF = 0.65 + 0.01 * Summation of Weighted Technical Factors
+
+UFP = Summation of weighted Components
+
+j = 0.39 to 0.48
+
+to check j
+
+j = (log(E * 27)/log(AFP)) * 1/3 

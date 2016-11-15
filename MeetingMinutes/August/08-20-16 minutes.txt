@@ -1,0 +1,28 @@
+August 20, 2016 (Saturday)
+
+Time Frame: 10:30 am - 3:00 pm
+
+Venue: SM Cebu Foodcourt, The Center Suites Hotel
+
+Aballe     4 1/2 hrs
+
+Alesna	   4 1/2 hrs
+
+Delantar   4 1/2 hrs
+
+Tan   4 1/2 hrs
+
+
+total minutes: 18 hrs
+
+Issues:
+1. Revisions to be made in requirements specification
+2. Discussion of screen flow of the software
+
+Resolution
+1. Apply the revisions 
+2.Go to The Center Suites Hotel to reaffirm to client some requirements of the software 
+
+Action Items:
+1. Revisions are to be made by Aballe
+2. Reaffirmation will be made Alesna, Delantar, Tan, Aballe

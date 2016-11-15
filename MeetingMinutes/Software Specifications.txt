@@ -1,0 +1,9 @@
+-admin has all the power
+- inventory ppl has power over the inventory
+-waiters can use the POS to make transactions
+-transactions can be free breakfast, charged to room, payed with cash or walk in customer
+-where, when and for how much an ingerdient is bought has its own table
+-ingredients are transfered from warehouse to warehouse or wherever they are supposed to be stored.
+-each dish has its needed ingredients and their amounts listed as part of its data
+-our job is to account for the variances in making the dishes
+-there are discrepancies on the quantity of the ingredients in their current system.
